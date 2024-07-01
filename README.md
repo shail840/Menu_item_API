@@ -1,11 +1,4 @@
-# Screenshots:
-![Screenshot](Screenshots/Menu-Items.png)
-![Screenshot](Screenshots/Added-Item.png)
-![Screenshot](Screenshots/Single-Item.png)
-![Screenshot](Screenshots/Updated-Menu-Item.png)
-![Screenshot](Screenshots/Deleted-Added_Item.png)
-![Screenshot](Screenshots/Input-Error.png)
-![Screenshot](Screenshots/Database.PNG)
+
 
 # Restaurant Menu Update API
 
@@ -19,6 +12,18 @@ This project is a Django-based API designed to update the menu of a restaurant w
 4. **Serialization and Deserialization**: Implements serialization, validation, and deserialization techniques for API data.
 5. **Support for Multiple Formats**: Data is available in both JSON and XML formats.
 6. **MySQL Database**: Stores data persistently, allowing for easy access and retrieval.
+
+
+# Screenshots:
+![Screenshot](Screenshots/Menu-Items.png)
+![Screenshot](Screenshots/Added-Item.png)
+![Screenshot](Screenshots/Single-Item.png)
+![Screenshot](Screenshots/Updated-Menu-Item.png)
+![Screenshot](Screenshots/Deleted-Added_Item.png)
+![Screenshot](Screenshots/Input-Error.png)
+![Screenshot](Screenshots/Database.PNG)
+
+
 
 ## Tech Stack
 - Django
